@@ -3,7 +3,7 @@
 
 ## I'm a Man Who Interested in Tech!!
 
-- 🔭 I Fresher, who interest at Data and Machine Learning
+- 🔭 I'm Fresher, who interest at Data and Machine Learning
 - 🌱 I’m currently learning Data Science
 - 🥅 2021 Goals: GO TO WORK!!
 - ⚡ Fun fact: I love playing piano
