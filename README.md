@@ -38,7 +38,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="riqulaziz GitHub Stats" src="https://github-readme-stats-1-eight.vercel.app/api?username=riqulaziz&show_icons=true&hide_border=true" />
+  <img align="left" alt="riqulaziz GitHub Stats" src="https://github-readme-stats-git-master-riqulaziz.vercel.app/api?username=riqulaziz&show_icons=true&hide_border=true" />
 
 </details>
 
