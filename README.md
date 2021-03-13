@@ -3,14 +3,14 @@
 
 ## I'm a Man Who Interested in Tech!!
 
-- 🔭 I Fresher, who interest at Data and Machine Learning
+- 🔭 I'm Fresher, who interest at Data and Machine Learning
 - 🌱 I’m currently learning Data Science
 - 🥅 2021 Goals: GO TO WORK!!
 - ⚡ Fun fact: I love playing piano
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="riqulaziz Spotify Playing" width="350" />](https://open.spotify.com/user/iculs)
+[<img src="https://spotify-playing-riqulaziz.vercel.app/api/spotify" alt="riqulaziz Spotify Playing" width="350" />](https://open.spotify.com/user/iculs)
 
 ### Connect with me:
 
@@ -30,6 +30,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/riqulaziz/riqulaziz/blob/main/icon/github.png"/></code>
+<img align="left" alt="Excel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Excel/Excel.png"/>
 
 <br />
 <br />
@@ -38,8 +39,15 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="riqulaziz GitHub Stats" src="https://github-readme-stats-red-beta.vercel.app/api?username=riqulaziz&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="riqulaziz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riqulaziz&show_icons=true&hide_border=true&theme=dark" />
+  
+</details>
+<details>
+  <summary>:zap: Most Language</summary>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqulaziz&layout=compact&theme=dark&hide_border=true" />
+</a>
 </details>
 
 [website]: https://www.kaggle.com/riqulaziz
