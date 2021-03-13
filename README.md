@@ -48,6 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqulaziz&layout=compact&theme=dark&hide_border=true" />
 </a>
 </details>
+
 [website]: https://www.kaggle.com/riqulaziz
 [instagram]: https://instagram.com/riqulaziz
 [linkedin]: https://linkedin.com/in/riqulaziz
