@@ -35,7 +35,12 @@
 <br />
 
 ---
-[![riqulaziz GitHub stats](https://github-readme-stats.vercel.app/api?username=riqulaziz)](https://github.com/riqulaziz/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="riqulaziz GitHub Stats" src="https://github-readme-stats-red-beta.vercel.app/api?username=riqulaziz&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://www.kaggle.com/riqulaziz
 [instagram]: https://instagram.com/riqulaziz
