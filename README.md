@@ -41,7 +41,13 @@
   <img align="left" alt="riqulaziz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riqulaziz&show_icons=true&hide_border=true" />
   
 </details>
-
+<details>
+  <summary>:zap: Most Language</summary>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqulaziz&layout=compact&theme=dark&hide_border=true" />
+</a>
+</details>
 [website]: https://www.kaggle.com/riqulaziz
 [instagram]: https://instagram.com/riqulaziz
 [linkedin]: https://linkedin.com/in/riqulaziz
