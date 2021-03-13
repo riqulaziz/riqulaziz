@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="riqulaziz | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />][website]
-[<img align="left" alt="riqulaziz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="riqulaziz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="riqulaziz | Kaggle" width="22px" src="https://github.com/riqulaziz/riqulaziz/blob/main/icon/kaggle-seeklogo.com.svg" />][website]
+[<img align="left" alt="riqulaziz | LinkedIn" width="22px" src="https://github.com/riqulaziz/riqulaziz/blob/main/icon/linkedin.png" />][linkedin]
+[<img align="left" alt="riqulaziz | Instagram" width="22px" src="https://github.com/riqulaziz/riqulaziz/blob/main/icon/instagram.png" />][instagram]
 
 <br />
 
