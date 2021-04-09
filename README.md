@@ -4,7 +4,7 @@
 ## I'm a Man Who Interested in Tech!!
 
 - 🔭 I'm Fresher, who interest in Data and Machine Learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning SQL and doing some project
 - 🥅 2021 Goals: GO TO WORK!!
 - ⚡ Fun fact: I love playing piano
 
