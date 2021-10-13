@@ -3,9 +3,9 @@
 
 ## I'm a Man Who Interested in Tech!!
 
-- 🔭 I'm Fresher, who interest in Data and Machine Learning
-- 🌱 I’m currently learning SQL and doing some project
-- 🥅 2021 Goals: GO TO WORK!!
+- 🔭 I'm Junior Data Scincetist with domain interest in Healthcare and Finance
+- 🌱 I’m currently Tableau and andvance analytic and visualization
+- 🥅 2022 Goals: UPGRADE SKILL AND MAKE SIDE HUSTLE JOBS IN DATA !!
 - ⚡ Fun fact: I love playing piano
 
 ### Spotify Playing 🎧
