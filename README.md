@@ -25,13 +25,6 @@ With 3+ years of experience in data analytics, I specialize in transforming raw 
 
 ---
 
-### 📈 Stats
-
-![Thoriqul Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riqulaziz&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riqulaziz&layout=compact&theme=radical&hide_border=true)
-
----
 
 ### 🌟 Connect with Me
 
